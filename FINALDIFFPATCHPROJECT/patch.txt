@@ -1,0 +1,14 @@
+*** data21.txt	Sun Nov 10 00:52:32 2019
+--- data22.txt	Sun Nov 10 00:41:10 2019
+***************
+@@ -1,7 +1,6 @@
++ tamil nadu
+  gujarat
+- uttar pradesh
+- kolkata
++ andhra pradesh
+  bihar
+- jammu kashmir
+- esh
++ uttar pradesh
+  

@@ -1,0 +1,14 @@
+./result data1.txt data2.txt
+./result -u data1.txt data2.txt
+./result -c data1.txt data2.txt
+./result -w data5.txt data6.txt
+./result -b data7.txt data8.txt
+./result -i data9.txt data10.txt
+./result -iw data11.txt data12.txt
+./result folder1 folder2
+./result big.txt big1.txt
+./result -u data1.txt data2.txt > patch.txt
+./result1 data1.txt patch.txt
+./result1 data1.txt -R patch.txt
+
+
